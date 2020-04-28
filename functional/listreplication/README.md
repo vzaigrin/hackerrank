@@ -53,5 +53,7 @@ Output each element of the original list S times, each on a separate line. You h
 
 ## Recommended Method Signature
 Number Of Parameters: 2
+
 Parameters: [number of times to replicate elements, list]
+
 Returns: List or Vector
