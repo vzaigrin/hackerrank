@@ -17,11 +17,14 @@ Output N lines, each containing "Hello World".
 
 ## Sample Output
 Hello World
+
 Hello World
+
 Hello World
+
 Hello World
 
 ## Recommended Method Signature
-Number Of Parameters: 1
-Parameters: [n]
-Returns: nil
+- Number Of Parameters: 1
+- Parameters: [n]
+- Returns: nil
