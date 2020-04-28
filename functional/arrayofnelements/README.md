@@ -22,6 +22,6 @@ The function must return an array, list, or vector of n integers. Stub code in t
 - The members returned by the list/vector/array must be integers
 
 ## Method Signature
--- Number Of Parameters: 1
--- Parameters: [n]
--- Returns: List or Vector
+- Number Of Parameters: 1
+- Parameters: [n]
+- Returns: List or Vector
