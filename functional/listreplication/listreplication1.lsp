@@ -1,6 +1,5 @@
 (defun f (n list) 
-  ;; Complete this function
-)
+    (mapcan #'(lambda (x) (loop repeat n collect x)) lst))
 
 (defun read-list ()
     (let ((n (read *standard-input* nil)))
