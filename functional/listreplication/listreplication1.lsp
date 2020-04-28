@@ -1,4 +1,4 @@
-(defun f (n list) 
+(defun f (n lst) 
     (mapcan #'(lambda (x) (loop repeat n collect x)) lst))
 
 (defun read-list ()
