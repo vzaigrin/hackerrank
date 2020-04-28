@@ -12,27 +12,43 @@ Output each element of the original list S times, each on a separate line. You h
 
 ## Constraints
 0 <= X <= 10
+
 1 <= S <= 100
 
 ## Sample Input
 3
+
 1
+
 2
+
 3
+
 4
 
 ## Sample Output
 1
+
 1
+
 1
+
 2
+
 2
+
 2
+
 3
+
 3
+
 3
+
 4
+
 4
+
 4
 
 ## Recommended Method Signature
