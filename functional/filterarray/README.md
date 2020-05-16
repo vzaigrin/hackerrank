@@ -11,12 +11,9 @@ The next B lines each contain an integer, which represents the elements of the l
 Print all the integers from the array that are less than the given upper limit X in value on separate lines. The sequence should be the same as it was in the original array.
 
 ## Constraints
-
-1 <= B <= 100
-
-For any element, Y in the array, -100 <= Y <= 100
-
--100 <= X <= 100
+- 1 <= B <= 100
+- For any element, Y in the array, -100 <= Y <= 100
+- -100 <= X <= 100
 
 ## Note
 The purpose of this challenge is to learn how to write your own implementation of a filter function. We recommend not using the inbuilt library function.
@@ -53,8 +50,6 @@ The purpose of this challenge is to learn how to write your own implementation o
 2,1 and 0 are the list elements that are less than the X delimiter, 3. They are displayed in the same order as they were in the original list.
 
 ## Recommended Method Signature
-Number Of Parameters: 2
-
-Parameters: [upper-limit(X) list]
-
-Returns: List or Vector
+- Number Of Parameters: 2
+- Parameters: [upper-limit(X) list]
+- Returns: List or Vector

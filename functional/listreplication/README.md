@@ -11,9 +11,8 @@ The next X lines each contain an integer. These are the X elements in the array.
 Output each element of the original list S times, each on a separate line. You have to return the list/vector/array of S * X integers. The relative positions of the values should be the same as the original list provided in the input.
 
 ## Constraints
-0 <= X <= 10
-
-1 <= S <= 100
+- 0 <= X <= 10
+- 1 <= S <= 100
 
 ## Sample Input
 3
@@ -52,8 +51,6 @@ Output each element of the original list S times, each on a separate line. You h
 4
 
 ## Recommended Method Signature
-Number Of Parameters: 2
-
-Parameters: [number of times to replicate elements, list]
-
-Returns: List or Vector
+- Number Of Parameters: 2
+- Parameters: [number of times to replicate elements, list]
+- Returns: List or Vector

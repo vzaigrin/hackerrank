@@ -38,8 +38,6 @@ Output the list with the integers at odd positions removed i.e. the first elemen
 8
 
 ## Recommended Method Signature
-Number Of Parameters: 1
-
-Parameters: [list]
-
-Returns: List or Vector
+- Number Of Parameters: 1
+- Parameters: [list]
+- Returns: List or Vector

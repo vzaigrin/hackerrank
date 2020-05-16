@@ -15,6 +15,7 @@ Output an integer that denotes A + B
 
 ## Sample Input
 2
+
 3
 
 ## Sample Output

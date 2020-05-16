@@ -10,7 +10,7 @@ A "Hello World" program has been widely adopted as the introductory program for 
 Hello World
 
 ## Method Signature
-Number Of Parameters: 0
-Parameters: []
-Returns: nil
-Behavior: Prints "Hello World"
+- Number Of Parameters: 0
+- Parameters: []
+- Returns: nil
+- Behavior: Prints "Hello World"
