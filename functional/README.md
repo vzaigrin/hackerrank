@@ -8,3 +8,4 @@ Solutions for [Functional Programming](https://www.hackerrank.com/domains/fp) pr
 - [Filter Positions in a List](filterpositionsinalist)
 - [Array Of N Elements](arrayofnelements)
 - [Reverse a List](reversealist)
+- [Sum of Odd Elements](sumofoddelements)
