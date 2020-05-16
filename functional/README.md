@@ -9,3 +9,4 @@ Solutions for [Functional Programming](https://www.hackerrank.com/domains/fp) pr
 - [Array Of N Elements](arrayofnelements)
 - [Reverse a List](reversealist)
 - [Sum of Odd Elements](sumofoddelements)
+- [List Length](listlength)
